@@ -1,0 +1,4 @@
+auth.json
+venv/
+__pycache__/
+output.jsonl
