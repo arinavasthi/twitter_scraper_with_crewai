@@ -31,7 +31,5 @@ twitter_scraper_with_crewai/
 │
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
-│
-└── utils/
-    └── helpers.py          # (Optional) Utility functions like parse_count()
+
 
